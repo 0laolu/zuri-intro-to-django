@@ -1,6 +1,6 @@
 # Introduction To Django Task
 
-This task is about getting started with Django. That is:
+### This task is about getting started with Django. That is:
 
 - Creating a Virtual Environment in my root directory (an in-built virtual environment was installed with Python)
 - Activate the Virtual Environment
